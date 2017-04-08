@@ -44,7 +44,7 @@
 				<td>&nbsp;</td>
 			</tr>
 			<tr>
-				<td align="center"><b>Chinese (&#20013;&#22269;) visa, China, Bulgaria, USA, Singapore entry/exit stamps</b></td>
+				<td align="center"><b>Chinese visa, China, Bulgaria, USA, Singapore entry/exit stamps</b></td>
 			<tr>
 				<td align="center"><img src="../imgs/pages/about/page2.jpg" height="400" width="500" alt="chinese visa, entry/exit stamps from china, bulgaria, usa, and singapore" style="border:1px solid white;"></td>
 			</tr>
@@ -97,33 +97,7 @@
 				<td>&nbsp;</td>
 			</tr>
 			<tr>
-				
-			<tr>
-				<td align="center"><img src="../imgs/pages/about/page11.jpg" height="400" width="500" alt="mexico entry stamp" stlye="border:1px solid white;"></td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-			</tr>
-			<tr>
-				<td align="center"><b>10</b></td>
-			</tr>
-			<tr>
-				<td align="center"><img src="../imgs/pages/about/page12.jpg" height="400" width="500" alt="" stlye="border:1px solid white;"></td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-			</tr>
-			<tr>
-				<td align="center"><b></b></td>
-			</tr>
-			<tr>
-				<td align="center"><img src="../imgs/pages/about/page13.jpg" height="400" width="500" alt="" stlye="border:1px solid white;"></td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-			</tr>
-			<tr>
-				<td align="center"><b></b></td>
+				<td align="center"><b>Colombian entry stamp, Bosnia and Herzegovina exit stamp, Croatian entry stamp</b></td>
 			</tr>
 			<tr>
 				<td align="center"><img src="../imgs/pages/about/page14.jpg" height="400" width="500" alt="" stlye="border:1px solid white;"></td>
@@ -132,7 +106,7 @@
 				<td>&nbsp;</td>
 			</tr>
 			<tr>
-				<td align="center"><b></b></td>
+				<td align="center"><b>Hong Kong entry permits, Colombian exit stamp</b></td>
 			</tr>
 			<tr>
 				<td align="center"><img src="../imgs/pages/about/page15.jpg" height="400" width="500" alt="" stlye="border:1px solid white;"></td>
@@ -141,7 +115,7 @@
 				<td>&nbsp;</td>
 			</tr>
 			<tr>
-				<td align="center"><b></b></td>
+				<td align="center"><b>United States entry stamp</b></td>
 			</tr>
 			<tr>
 				<td align="center"><img src="../imgs/pages/about/page16.jpg" height="400" width="500" alt="" stlye="border:1px solid white;"></td>
@@ -150,10 +124,19 @@
 				<td>&nbsp;</td>
 			</tr>
 			<tr>
-				<td align="center"><b></b></td>
+				<td align="center"><b>Indian 10-year entry visa, Jordanian entry visa, Jordanian entry/exit stamps</b></td>
 			</tr>
 			<tr>
 				<td align="center"><img src="../imgs/pages/about/page17.jpg" height="400" width="500" alt="" stlye="border:1px solid white;"></td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td align="center"><b>Mexican entry stamp</b></td>
+			</tr>
+			<tr>
+				<td align="center"><img src="../imgs/pages/about/page10.jpg" height="400" width="500" alt="" stlye="border:1px solid white;"></td>
 			</tr>
 		
 			</table>

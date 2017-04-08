@@ -19,7 +19,7 @@
 			<h2>News</h2>
 			
 			<hr align="left">
-			
+				<p>Coming soon...</p>
 			<hr align="left">
 		</div>
 </body>

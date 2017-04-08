@@ -9,22 +9,28 @@
 			<h5>Wayne State University</h5>
 			<table class="table" width="90%" style="padding-left:25px;">
 			<tr>
+				<td>Winter 2017</td>
+				<td>General Physics II (Calculus Based), Teaching Assistant</td>
+				<td>[<a style="color:#ffff66;text-decoration:none;" href="../docs/teach/phy2180_winter2017.pdf" download><img src="../imgs/icons/pdflogo.png" alt="pdf download logo" height="10" width="10">Syllabus</a>]</td>
+			</td>
+			
+			<tr>
 				<td>Autumn 2016</td>
-				<td>General Physics II, Teaching Assistant</td>
+				<td>General Physics II (Algebra Based), Teaching Assistant</td>
 				<td>[<a style="color:#ffff66;text-decoration:none;" href="../docs/teach/phy2140_fall2016.pdf" download><img src="../imgs/icons/pdflogo.png" alt="pdf download logo" height="10" width="10">Syllabus</a>]</td>
 			</tr>
 			<tr>
 				<td>Summer 2016</td>
-				<td>General Physics I, Teaching Assistant</td>
+				<td>General Physics I (Algebra Based), Teaching Assistant</td>
 				<td>[<a style="color:#ffff66;text-decoration:none;" href="../docs/teach/phy2130_summer2016.pdf" download><img src="../imgs/icons/pdflogo.png" alt="pdf download logo" height="10" width="10">Syllabus</a>]</td>
 			</tr>
 			<tr>
 				<td>Autumn 2015</td>
-				<td>General Physics I, Teaching Assistant</td>
+				<td>General Physics I (Alegrba Based), Teaching Assistant</td>
 				<td>[<a style="color:#ffff66;text-decoration:none;" href="../docs/teach/phy2130_fall2015.pdf" download><img src="../imgs/icons/pdflogo.png" alt="pdf download logo" height="10" width="10">Syllabus</a>]</td>
 			<tr>
 				<td>Summer 2015</td>
-				<td>General Physics Laboratory I, Laboratory Instructor</td>
+				<td>General Physics Laboratory I (Algebra Based), Laboratory Instructor</td>
 				<td>[<a style="color:#ffff66;text-decoration:none;" href="../docs/teach/phy2131_summer2015.pdf" download><img src="../imgs/icons/pdflogo.png" alt="pdf download logo" height="10" width="10">Syllabus</a>]</td>
 			</tr>
 			<tr>
@@ -48,7 +54,7 @@
 			<table class="table" width="90%" style="padding-left:25px;">
 			<tr>
 				<td>Winter 2014</td>
-				<td>Introductory Physics II, Teaching Assistant</td>
+				<td>Introductory Physics II (Alegbra Based), Teaching Assistant</td>
 				<td>[<a style="color:#ffff66;text-decoration:none;" href="https://reg.msu.edu/Courses/Request.aspx?Term=1136&SubjectCode=PHY&CourseNumber232">Course Description</a>]</td>
 			</tr>
 			<tr>
@@ -58,12 +64,12 @@
 			</tr>
 			<tr>
 				<td>Winter 2013</td>
-				<td>Introductory Physics I, Teaching Assistant</td>
+				<td>Introductory Physics I (Alegbra Based), Teaching Assistant</td>
 				<td>[<a style="color:#ffff66;text-decoration:none;" href="https://reg.msu.edu/Courses/Request.aspx?Term=1132&SubjectCode=PHY&CourseNumber=231">Course Description</a>]</td>
 			</tr>
 			<tr>
 				<td>Winter 2012</td>
-				<td>Introductory Physics II, Teaching Assistant</td>
+				<td>Introductory Physics II (Algebra Based), Teaching Assistant</td>
 				<td>[<a style="color:#ffff66;text-decoration:none;" href="https://reg.msu.edu/Courses/Request.aspx?Term=1122&SubjectCode=PHY&CourseNumber=232">Course Description</a>]</td>
 			<tr>
 			</table>

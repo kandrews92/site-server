@@ -16,8 +16,8 @@
 		</div>
 		
 		<div id="right">
-			<h2>Cirriculum Vitae</h2>
-			<p style="padding-left:25px;">(Download cirriculum vitae in <a style="color:white;text-decoration:none;" href="../docs/cv/cv2016.pdf" download><img src="../imgs/icons/pdflogo.png" alt="pdf download logo" height="10" width="10">PDF form</a>)</p>
+			<h2>Curriculum Vitae</h2>
+			<p style="padding-left:25px;">(Download cirriculum vitae in <a style="color:#ffff66;" href="../docs/cv/kraigandrews_cv_march2017.pdf" download><img src="../imgs/icons/pdflogo.png" alt="pdf download logo" height="10" width="10">PDF form</a>)</p>
 
 		<hr align="left">
 		<table class="table" style="width:90%;padding-left:25px;">
@@ -55,11 +55,22 @@
 
 		<hr align="left">
 
-		<h4><a style="color:#fffff6;text-decoration:none;" name="publications">Publications</a></h4>`
-		
+		<h4><a style="color:#fffff6;text-decoration:none;" name="publications">Publications</a></h4>	
+			<?php include("../includes/publications.php"); ?>
+
 		<hr align="left">
 
+		<h4><a style="color:#fffff6;text-decoration:none;">Presentations</a></h4>
+			<?php include("../includes/talks.php"); ?>		
+		
+		<hr align="left">		
 
+<!---		<h4><a style="color:#fffff6;text-decoration:none;" name="fellowships">Fellowships</a></h4>
+			<?php include("../includes/fellowships.php"); ?>
+		
+		<hr align="left"> ---!>
+
+	
 		<h4><a style="color:#fffff6;text-decoration:none;" name="skills">Relevant Skills</a></h4>
 			<?php include("../includes/skills.php"); ?>
 

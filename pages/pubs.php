@@ -26,8 +26,8 @@
 
 			<h3><a style="color:#fffff6;text-decoration:none;" name="2016">2016</a></h3>
 			<ol start="1">
-				<li><p style="font-size:100%;">Publication No. 1<br>[<a style="color:#ffff66;text-decoration:none;" href="#"><img src="../imgs/icons/pdflogo.png" alt="pdf download logo" height="10" width="10">PDF<a/>]&nbsp;[<a style="color:#ffff66;text-decoration:none;" href="#">Publisher's Link</a>]&nbsp;[<a style="color:#ffff66;text-decoration:none;" href="#">BibTeX</a>]&nbsp;[<a style="color:#ffff66;text-decoration:none;" href="#">RIS</a>]</p></li>
-				<!--<li><p style="font-size:100%;"> </p></li> -->
+				<li><p style="font-size:100%;">Publication No. 1<br>[<a style="color:#ffff66;text-decoration:none;" href="#"><img src="../imgs/icons/pdflogo.png" alt="pdf download logo" height="10" width="10">PDF</a>]&nbsp;[<a style="color:#ffff66;text-decoration:none;" href="#">Publisher's Link</a>]&nbsp;[<a style="color:#ffff66;text-decoration:none;" href="#">BibTeX</a>]&nbsp;[<a style="color:#ffff66;text-decoration:none;" href="#">RIS</a>]</p></li>
+				<li><p style="font-size:100%;">Publication No. 2<br>[<a style="color:#ffff66;text-decoration:none;" href="#"><img src="../imgs/icons/pdflogo.png" alt="pdf download logo" height="10" width="10">PDF</a>]&nbsp;[<a style="color:#ffff66;text-decoration:none;" href="#">Publisher's Link</a>]&nbsp;[<a style="color:#ffff66;text-decoration:none;" href="#">BibTeX</a>]&nbsp;[<a style="color:#ffff66;text-decoration:none;" href="#">RIS</a>]</p></li>
 			</ol>
 			<hr width="90%" align="left">
 

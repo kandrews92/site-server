@@ -24,7 +24,7 @@
 			<img src="imgs/univ/oldmain.jpg" alt="Wayne State University Old Main Building" height="150" width="200" style="float:right; margin-right:0px; padding-right:85px;">
 			<p>Physics Research Building<br>
 			   666 West Hancock<br>
-			   Room 135<br>
+			   Room 233<br>
 			   Wayne State University<br>
 			   Detroit, MI USA 48201<br>
 			</p>	

@@ -19,10 +19,10 @@
 			<li class="sliding-element"><a href="../pages/pubs.php">Publications</a></li>
 			<li class="sliding-element"><a href="../pages/present.php">Presentations</a>
 			<li class="sliding-element"><a href="../pages/univ.php">University Courses</a></li>
-			<li class="sliding-element"><a href="../pages/news.php">News</a></li>
+		<!--	<li class="sliding-element"><a href="../pages/news.php">News</a></li>   -->
 			<li class="sliding-element"><a href="../pages/links.php">Links</a></li>
 			<li class="sliding-element"><a href="../pages/code.php">Code</a></li>
-			<li class="sliding-element"><a href="../pages/proj.php">Projects</a></li>
+	<!--		<li class="sliding-element"><a href="../pages/proj.php">Projects</a></li> -->
 			<li class="sliding-element"><a href="../pages/about.php">About Me</a></li>
 			<li class="sliding-element"><a href="../pages/contact.php">Contact Information</a></li>
 		</ul>

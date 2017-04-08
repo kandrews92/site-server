@@ -17,6 +17,10 @@
 			<td>Thesis: <q>Intrinsic Channel Properties, Scattering Mechanisms, and Quantum Transport Properties in Transistion Metal Dichalcogenides</q></td>
 		</tr>
 		<tr>
+			<td>2017</td>
+			<td>M.S. &nbsp; Physics, Wayne State University</td>
+		</tr>
+		<tr>
 			<td>2014</td>
 			<td>B.S. &nbsp; Physics, Michigan State University</td>
 		</tr>
